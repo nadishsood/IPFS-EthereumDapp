@@ -21,11 +21,7 @@ class App extends Component {
     await this.loadBlockchainData()
   }
 
-
-
-
-
-  async loadWeb3() {
+async loadWeb3() {
     // if (window.ethereum) {
     //   App.web3Provider = window.ethereum;
     //   try {
