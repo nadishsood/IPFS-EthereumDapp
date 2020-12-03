@@ -11,6 +11,7 @@ contract("Image", (accounts)=>{
     before(async ()=>{
         image = await Image.deployed()
     })
+    
     describe("deployment", async()=>{
        
         it("deploys successfully", async()=>{

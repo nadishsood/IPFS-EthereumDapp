@@ -1,7 +1,6 @@
 pragma solidity 0.5.0;
 
-//contract acts as storage, takes hash and stores on blockchain, 
-//reads from blockchain and shows on screen.
+
 contract Image{
   string imageHash;
   
