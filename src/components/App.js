@@ -121,7 +121,7 @@ async loadWeb3() {
                 <div>
                   <p>
             
-                  {this.state.account}
+                  {/* {this.state.account} */}
                   </p>
                 </div>
               </div>
